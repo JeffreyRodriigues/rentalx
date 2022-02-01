@@ -1,5 +1,8 @@
 /*.js
 node_modules
 dist
+services
+routes
+repositories
 
 /*.js
